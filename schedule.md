@@ -8,19 +8,19 @@
 
 | Date    | Week                | Code Problem | Research Topic
 |---------|---------------------|-----------------------------------------
-| June 5  | [Week 01](#week-1)  | Factorial | General Discrete Math
+| June 5  | [Week 01](#week-1)  | Factorial | Discrete Math
 | June 12  | [Week 02](#week-2)  | Fibonacci | Combinatorics
-| June 19  | [Week 03](#week-3)  | Pascal's Triangle | Primitive Recursive Functions
-| June 26  | [Week 04](#week-4)  |
-| July 3  | [Week 05](#week-5)  |
-| July 10  | [Week 06](#week-6)  |
-| July 17  | [Week 07](#week-7)  |
-| July 24  | [Week 08](#week-8)  |
-| July 31  | [Week 09](#week-9)  |
-| August 7 | [Week 10](#week-10)  |
-| August 14 | [Week 11](#week-11) |
-| August 21 | [Week 12](#week-12) |
-| August 28 | [Week 13](#week-13) |
+| June 19  | [Week 03](#week-3)  | Pascal's Triangle | Recursion
+| June 26  | [Week 04](#week-4)  | Linked Lists| Computability
+| July 3  | [Week 05](#week-5)  | Queues | Godel's Theorem
+| July 10  | [Week 06](#week-6)  | Stacks | Church-Turing Thesis
+| July 17  | [Week 07](#week-7)  | Heap | Decidability
+| July 24  | [Week 08](#week-8)  | Priority Queue| Graph Theory
+| July 31  | [Week 09](#week-9)  | Hash Functions | Halting Problem
+| August 7 | [Week 10](#week-10)  | Hash Table | Recursion
+| August 14 | [Week 11](#week-11) | Tree | Recursion
+| August 21 | [Week 12](#week-12) | Graph | Recursion
+| August 28 | [Week 13](#week-13) | Sorting | Recursion
 
 ## Week 1
 
@@ -29,7 +29,7 @@
 + Research topic: Understand general Discrete Math principles.
 
 ### Resources
-+ [Discrete Math]("http://en.wikipedia.org/wiki/Discrete_mathematics")
++ [Discrete Math](http://en.wikipedia.org/wiki/Discrete_mathematics)
 
 ## Week 2
 
@@ -38,7 +38,7 @@
 + Research topic: Understand general combinatorics principles.
 
 ### Resources
-+ [Combinatorics]("http://en.wikipedia.org/wiki/Combinatorics")
++ [Combinatorics](http://en.wikipedia.org/wiki/Combinatorics)
 
 ## Week 3
 
