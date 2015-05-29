@@ -7,7 +7,7 @@
 ## At a Glance
 
 | Date    | Week                | Code Problem | Research Topic
-|---------|---------------------|-----------------------------------------
+|---------|---------------------|--------------|---------------
 | June 5  | [Week 01](#week-1)  | Factorial | Combinatorics
 | June 12  | [Week 02](#week-2)  | Fibonacci | Discrete Math (logic)
 | June 19  | [Week 03](#week-3)  | Pascal's Triangle | Discrete Math (set theory)
@@ -21,6 +21,7 @@
 | August 14 | [Week 11](#week-11) | Tree | Functional Programming
 | August 21 | [Week 12](#week-12) | Graph | Functional Programming
 | August 28 | [Week 13](#week-13) | Sorting | Functional Programming
+
 
 ## Week 1
 
