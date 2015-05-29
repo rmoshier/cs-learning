@@ -1,4 +1,4 @@
-# CS Fridays
+# CS Learning Schedule
 
 > This document exists to organize Davida Marion and Rachel Adler's personal computer science learning.
 
