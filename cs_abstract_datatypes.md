@@ -3,7 +3,6 @@
 - Native Arrays/Array List
 - Linked Lists
 - Tree Nodes
-- Tree
 - Hash
 - Set
 - Map
@@ -22,8 +21,11 @@ These are all just constraints to determine how we interact with the datatype
 - Ruby and Python's arrays are more sophisticated from Java's array. They're actually "array lists", a wrapper class that interacts with the native array for you. In Java, if you exceed the array's size, it doubles the array and seamlessly moves over to the new array.
 
 ex in Java:
+
+``` Java
 int[] x = new int[10];
 x[0];
+```
 
 
 ## Linked List
@@ -49,7 +51,9 @@ x[0];
 - Given data, you can take a hash function and get the location in a native array to look
 
 ex in Java:
+``` Java
 hashFunction(x) = [indexToLookIn];
+```
 
 - It's constant time lookup
 - For instance, md5 encryption is a hash
@@ -68,13 +72,13 @@ hashFunction(x) = [indexToLookIn];
 - You can say "does this set contain an element?" but you can't say "give me the 5th element"
 
 
-# Stack/Queue
+## Stack/Queue
 
 - Push and pop data on and off of a stack: first in, last out
 - Enqueue and dequeue data in and out of a queue: first in, first out
 
 
-# Graph
+## Graph
 
 - Crystal says she's never had to use a graph...
 - Data is connected in someway to multiple other nodes. We know how data is related to each other, based on the connections between data. Many options available for routes between places. Pointers are edges and they can have weights associated with them. They're information in themselves.
@@ -88,8 +92,6 @@ https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/topic_res
 
 Latency == "how long it takes to do something"
 
-
-# Website User Preferences
+### Website User Preferences
 
 - Pick a hashmap: don't care about order (hash), want to get the value of a key (map)
-- 
