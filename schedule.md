@@ -94,7 +94,7 @@
 + Research topic: Understand general principles of Decidability
 
 ### Resources
-+ [Decidability](http://en.wikipedia.org/wiki/Decidability_(logic))
++ [Decidability](http://en.wikipedia.org/wiki/Decidability_(logic)
 
 ## Week 8
 
